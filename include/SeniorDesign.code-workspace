@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../University of Central Florida/Senior Design 2025_GRP - General/Engineering/Code/SeniorDesign"
+		},
+		{
+			"name": "Senior Design",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"fstream": "cpp",
+			"xlocmes": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}
